@@ -1,0 +1,11 @@
+What is CSS?
+Cascading Stylesheets
+not a programming language
+stylesheet/styling language
+used for website layout and design
+can be extended with sass/less
+
+3 Methods for adding CSS:
+inline CSS: Directly in the html element (!NO)
+internal css: using <style> tags within a single document
+external css: linking an external .css file
